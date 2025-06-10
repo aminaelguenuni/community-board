@@ -51,7 +51,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="assets/unit1.video" alt="Video Walkthrough" />
+<img src="./assets/unit1.gif" alt="Video Walkthrough" />
 
 GIF created with LICEcape
 
