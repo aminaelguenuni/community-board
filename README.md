@@ -53,7 +53,7 @@ Here's a walkthrough of implemented required features:
 
 <img src="https://submissions.us-east-1.linodeobjects.com/web102/FBrWXuNE.gif" alt="Video Walkthrough" />
 
-*GIF created with [Kap](https://getkap.co/)*
+
 
 ---
 
@@ -65,7 +65,6 @@ During development, I encountered some issues with saving changes in VS Code, wh
 
 ## License
 
-opyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
