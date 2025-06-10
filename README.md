@@ -51,7 +51,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://submissions.us-east-1.linodeobjects.com/web102/FBrWXuNE.gif" alt="Video Walkthrough" />
+<img src="![unit1](https://github.com/user-attachments/assets/d2947bb2-6dc8-4fe4-9f7c-99bd84d7dbe0)" alt="Video Walkthrough" />
+
+GIF created with LICEcape
 
 
 
